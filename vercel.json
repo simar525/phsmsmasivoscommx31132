@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://us.i.posthog.com/$1"
+ }
+  ]
+}
